@@ -15,7 +15,6 @@ header{
     height: 100%;
     width: 300px;
     background-color: var(--sideBGColor);
-    overflow-y: auto;
     position: fixed;
     left: 0;
     top: 0;
